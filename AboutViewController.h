@@ -2,8 +2,8 @@
 //  AboutViewController.h
 //  SlidesScroll
 //
-//  Created by bmat on 10-10-23.
-//  Copyright 2010 Mathieu Brassard. All rights reserved.
+//  Created by Mathieu Brassard on 10-10-23.
+//  Copyright 2012 Mathieu Brassard. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
